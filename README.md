@@ -1,1 +1,1 @@
-"# yolo_basic" 
+YOLOv8 é a mais recente família de modelos de detecção de objetos baseados em YOLO da Ultralytics, fornecendo desempenho de ponta.
